@@ -29,3 +29,16 @@ Kui teil tekib probleeme või teil on küsimusi seoses projekti kasutamisega, av
 Projekti haldamine
 
 See projekt on avatud lähtekoodiga ja aktiivse arenduse all. Kui soovite panustada või teha ettepanekuid projekti täiustamiseks, saate selleks luua haru (branch) ja esitada pull requesti.
+
+
+
+
+Exiftooli ametlik veebisait: https://exiftool.org/
+
+Exiftooli on võimalik alla laadida ja lisateavet saada nende veebisaidilt.
+
+Kasutusallika koht (GitHub repository) koos näidiskoodiga: https://github.com/exiftool/exiftool
+
+Kasutatudallika koht: https://chat.openai.com/. See on üks viimase põlvkonna keelemudeleid, mis on treenitud suurel hulgal internetist kogutud tekstil su küsimustele vastueid otsima.
+
+
