@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <name>My Photos</name>
+    <open>1</open>
+    <Style id="Photo">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon38.png</href>
+          <scale>1.0</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Images</name>
+      <open>0</open>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230429_101120420.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230429_101120420.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>4.46673888888889,51.9054277777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230429_135718365.mp4'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230429_135718365.mp4</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>4.4816,51.9038,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230427_115317154.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230427_115317154.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>4.89555555555556,52.3752111111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230425_171216838.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230425_171216838.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>6.157475,52.2521444444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20211011_094133070.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20211011_094133070.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>14.4969055555556,35.8889027777778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230502_061828325.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230502_061828325.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>4.94948611111111,52.2860416666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230428_105221283.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230428_105221283.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>5.68395277777778,50.8360083333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230423_132436021.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230423_132436021.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>5.33405833333333,53.0734166666667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20211013_121516800.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20211013_121516800.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>14.5084666666667,35.8954083333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230430_180124414.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230430_180124414.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>5.16614166666667,52.22805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230501_080903535.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230501_080903535.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>4.81878888888889,52.4734333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20211014_134528786.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20211014_134528786.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>14.423225,35.9583333333333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230424_164558631.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230424_164558631.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>5.90894166666667,51.9664694444444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20211015_110227053.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20211015_110227053.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>14.4970861111111,35.9094555555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20211012_095517536.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20211012_095517536.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>14.3543,36.0061805555556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230426_085508583.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230426_085508583.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>5.34021666666667,52.08825,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230422_104156443.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230422_104156443.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>4.29984444444444,52.0989861111111,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20230421_093307188.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20230421_093307188.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>4.379825,52.0894722222222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[<img src='Images/PXL_20211010_144731630.jpg'
+          style='max-width:500px;max-height:500px;'> ]]>
+        </description>
+        <Snippet/>
+        <name>PXL_20211010_144731630.jpg</name>
+        <styleUrl>#Photo</styleUrl>
+        <Point>
+          <altitudeMode>clampedToGround</altitudeMode>
+          <coordinates>14.4963805555556,35.9088055555556,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
