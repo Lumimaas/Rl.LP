@@ -1,44 +1,35 @@
 README
 
-Käesolev fail sisaldab teavet, mis selgitab antud projekti eesmärki, kasulikkust ja kuidas seda kasutada.
+See fail sisaldab teavet projekti eesmärgi, kasulikkuse ja kasutamise kohta.
 Projekti kohta
 
-See projekt kasutab Pythoni skripti, et väljavõtta GPS-koordinaadid piltide EXIF-metadatast kasutades Exiftooli. Skript loob KML-faili koos piltide asukoha märkimisega ning salvestab GPS-koordinaadid tekstifaili.
+See projekt kasutab Pythoni skripti, et väljavõtta piltide EXIF-metadatast GPS-koordinaadid, kasutades Exiftooli. Skript loob KML-faili, kus on piltide asukohad märgitud, ning salvestab GPS-koordinaadid tekstifaili.
 Kuidas kasutada
 
-    Installige Exiftool, kui seda pole veel tehtud.
-    Kloneerige või laadige alla selle projekti failid.
-    Ava terminali või käsureaaken.
-    Navigeerige projekti kausta, kasutades järgmist käsku:
-
-    shell
+Installi Exiftool, kui seda pole veel tehtud.
+Kloneeri või laadi alla projektid.
+Ava terminali või käsureaaken.
+Navigeeri projekti kausta, kasutades järgmist käsku:
 
 cd projekti_kaust
 
-Käivitage skript järgmisega käsureal:
+   Käivita skript järgmise käsureal oleva käsu abil:
 
-shell
+python skript.py
 
-    python skript.py
-
-    Järgige programmi käivitamisel kuvatavaid juhiseid.
+   Järgige programmi käivitamisel kuvatavaid juhiseid.
 
 Kuidas aidata ja tugi
 
-Kui teil tekib probleeme või teil on küsimusi seoses projekti kasutamisega, avage GitHubi lehel uus küsimuse teema (issue). Meie meeskond aitab teid hea meelega.
+Kui sul tekib probleeme või sul on küsimusi projekti kasutamise kohta, ava uus küsimuse teema (issue) GitHubi lehel. Meie meeskond aitab sul hea meelega.
 Projekti haldamine
 
-See projekt on avatud lähtekoodiga ja aktiivse arenduse all. Kui soovite panustada või teha ettepanekuid projekti täiustamiseks, saate selleks luua haru (branch) ja esitada pull requesti.
-
-
-
+See projekt on avatud lähtekoodiga ja aktiivse arenduse all. Kui soovid projekti täiustamiseks kaasa aidata või teha ettepanekuid, loo haru (branch) ja esita pull request.
 
 Exiftooli ametlik veebisait: https://exiftool.org/
 
-Exiftooli on võimalik alla laadida ja lisateavet saada nende veebisaidilt.
+Exiftooli saab alla laadida ja rohkem teavet saada nende veebisaidilt.
 
-Kasutusallika koht (GitHub repository) koos näidiskoodiga: https://github.com/exiftool/exiftool
+Kasutusallika koht (GitHubi repositoorium) koos näidiskoodiga: https://github.com/exiftool/exiftool
 
-Kasutatudallika koht: https://chat.openai.com/. See on üks viimase põlvkonna keelemudeleid, mis on treenitud suurel hulgal internetist kogutud tekstil su küsimustele vastueid otsima.
-
-
+Kasutatud allika koht: https://chat.openai.com/. See on üks viimase põlvkonna keelemudeleid, mis on treenitud suurel hulgal internetist kogutud tekstil, et vastata küsimustele ja pakkuda abi.
